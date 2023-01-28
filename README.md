@@ -15,11 +15,11 @@
 
 <br>
 
-![Progress Steps]()
+![Progress Steps](/images/progress-steps.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Progress-Steps/)
 
 <br>
 
